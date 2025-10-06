@@ -1,4 +1,5 @@
 import { ItemCount } from "./shopping-cart/ItemCount";
+import './style.css'
 
 interface ItemInCart{
     productName: string;
